@@ -3,8 +3,9 @@
   "displayName": "Ramage",
   "description": "A fresh and nice color theme following the Ramage colorset",
   "version": "0.0.1",
+  "publisher": "Conobi",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.72.0"
   },
   "categories": [
     "Themes"
@@ -17,5 +18,9 @@
         "path": "./themes/Ramage-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Donokami/ramage-vscode.git"
   }
 }
