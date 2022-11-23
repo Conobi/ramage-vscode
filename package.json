@@ -1,0 +1,21 @@
+{
+  "name": "ramage",
+  "displayName": "Ramage",
+  "description": "A fresh and nice color theme following the Ramage colorset",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ramage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ramage-color-theme.json"
+      }
+    ]
+  }
+}
