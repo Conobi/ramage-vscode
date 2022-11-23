@@ -1,16 +1,8 @@
-# ramage README
+# Ramage Theme for VS Code
 
-## Working with Markdown
+A nice, soft and fresh theme for your favorite IDE, using the [Ramage colorset](https://github.com/brancheLab/ramage-colorset).
+Based on [Atom One Dark](https://github.com/akamud/vscode-theme-onedark) (for UI) and [Atom One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) (for syntax highlighting).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Warning!** This theme is still WIP, some major changes could still happen on the syntax look.
 
 **Enjoy!**
