@@ -2,10 +2,10 @@
   "name": "ramage-vscode",
   "displayName": "Ramage",
   "description": "A fresh and nice color theme following the Ramage colorset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Conobi",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.64.0"
   },
   "categories": [
     "Themes"
