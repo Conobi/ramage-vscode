@@ -2,7 +2,7 @@
   "name": "ramage-vscode",
   "displayName": "Ramage",
   "description": "A fresh, nice and minimalist dark theme",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "Conobi",
   "license": "MIT",
   "icon": "icon.png",
@@ -12,6 +12,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#1d2434",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

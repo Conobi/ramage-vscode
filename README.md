@@ -1,10 +1,11 @@
 <h1 align="center">
 	<img src="https://raw.githubusercontent.com/Donokami/ramage-vscode/master/icon.png" width="20%"><br>Ramage VS Code Theme
-	<br>
+</h1>
+<p align="center">
 	<img src="https://vsmarketplacebadge.apphb.com/version/Conobi.ramage-vscode.svg">
 	<img src="https://vsmarketplacebadge.apphb.com/installs/Conobi.ramage-vscode.svg">
 	<img src="https://vsmarketplacebadge.apphb.com/rating/Conobi.ramage-vscode.svg">
-</h1>
+</p>
 
 A nice, soft and fresh dark theme for your favorite IDE, using the [Ramage colorset](https://github.com/brancheLab/ramage-colorset).
 Based on [Atom One Dark](https://github.com/akamud/vscode-theme-onedark) (for UI) and [Atom One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) (for syntax highlighting).
